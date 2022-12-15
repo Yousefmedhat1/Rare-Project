@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "60916109119",
+    "project_id": "rare-todo",
+    "storage_bucket": "rare-todo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60916109119:android:919e4d703fce7aa9910d8a",
+        "android_client_info": {
+          "package_name": "com.example.rare_crew_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60916109119-o055ghusfm3epu2dqgg2jstplddt4vmj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rare_crew_project",
+            "certificate_hash": "8421eee63ff799a355be04a1fa5db1901ee25d9c"
+          }
+        },
+        {
+          "client_id": "60916109119-52mc9ldaq0bgqgqeg3nlf0fk164jekfo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbtxAH9gxtRIOpND_0Ko_2LsRD87hFSec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60916109119-52mc9ldaq0bgqgqeg3nlf0fk164jekfo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
